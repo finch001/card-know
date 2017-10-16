@@ -1,0 +1,4 @@
+const SEARCH_DATA = "SEARCH_DATA";
+const LOAD_ALL = "LOAD_ALL";
+const ADD_ITEM = "ADD_ITEM";
+
